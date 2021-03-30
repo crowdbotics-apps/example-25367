@@ -8,9 +8,10 @@ import SideMenu from "./sideMenu"
 
 /**
  * new navigators can be imported here
- */
+ */ import Frame21220085 from "../features/Frame21220085/navigator"
 
 const AppNavigator = {
+  Frame21220085: { screen: Frame21220085 },
   //@BlueprintNavigationInsertion
 
   /** new navigators can be added here */
